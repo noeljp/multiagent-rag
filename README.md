@@ -2,7 +2,9 @@
   🤖 Multi-Agent IA avec Streamlit + RAG
 
 
-Bienvenue dans ce projet ambitieux qui met en scène une **équipe d'agents IA autonomes** capables de collaborer sur une tâche définie par l'utilisateur. Le tout est orchestré dans une interface ergonomique construite avec [Streamlit](https://streamlit.io).
+Bienvenue dans ce projet ambitieux qui met en scène une **équipe d'agents IA autonomes** capables de collaborer
+sur une tâche définie par l'utilisateur. Le tout est orchestré dans une interface ergonomique
+construite avec [Streamlit](https://streamlit.io).
 
 ---
 
