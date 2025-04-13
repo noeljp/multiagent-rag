@@ -1,18 +1,5 @@
 ```markdown
-<h1 align="center">
   🤖 Multi-Agent IA avec Streamlit + RAG
-</h1>
-
-<p align="center">
-  <strong>Simulez une équipe d'agents intelligents, collaboratifs et autonomes.</strong><br>
-  Génération automatique de rôles, supervision, coordination, RAG, et export projet complet.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-IA_augmentée-red?style=flat-square&logo=streamlit">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python">
-  <img src="https://img.shields.io/github/license/noeljp/multiagent-rag?style=flat-square">
-</p>
 
 
 Bienvenue dans ce projet ambitieux qui met en scène une **équipe d'agents IA autonomes** capables de collaborer sur une tâche définie par l'utilisateur. Le tout est orchestré dans une interface ergonomique construite avec [Streamlit](https://streamlit.io).
