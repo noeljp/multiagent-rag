@@ -1,7 +1,3 @@
-Voici un **README.md complet, esthétique et clair**, pour ton projet multi-agents IA avec Streamlit + RAG 👇
-
----
-
 ```markdown
 # 🤖 Multi-Agent IA avec Streamlit + RAG
 
@@ -113,12 +109,3 @@ Ce projet est open-source sous licence MIT.
 
 *Développé avec ❤️ par [@noeljp](https://github.com/noeljp) – 2024.*
 ```
-
----
-
-Souhaites-tu aussi que je t’ajoute :
-- un `requirements.txt` prêt à l’emploi ?
-- un `logo` ou favicon pour l’interface Streamlit ?
-- des badges GitHub (stars, license, etc.) en haut du README ?
-
-Je peux tout automatiser ✨
