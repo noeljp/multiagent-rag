@@ -1,0 +1,36 @@
+# Core FastAPI server
+fastapi
+uvicorn
+
+# Data validation & type hints
+pydantic
+
+# OpenAI API client
+openai
+
+# Token counting (OpenAI)
+tiktoken
+
+# LangChain & vector store
+langchain
+langchain-openai
+langchain-chroma
+
+# Text parsing / NLP
+beautifulsoup4
+
+# Frontend React dependencies (à mettre séparément dans le frontend, si projet séparé)
+# Ces packages sont pour le frontend React, à inclure dans un package.json
+# react
+# react-dom
+# @shadcn/ui
+# @radix-ui/react-scroll-area
+# tailwindcss
+
+# Si tu utilises bs4 ou SmartTextSplitter avec HTML, JSON, code parsing
+lxml
+
+# Parsing Python AST (déjà intégré dans Python stdlib)
+# ast et json sont natifs, donc pas à inclure
+
+# Pour regex (re) : intégré à Python

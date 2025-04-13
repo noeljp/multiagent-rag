@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Script\\multiagent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Script\\multiagent\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Script\\multiagent\\usage.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:usage.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Script\\multiagent\\utils\\terminal.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils\\terminal.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Script\\multiagent\\base_agent.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:base_agent.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Script\\multiagent\\utils_agent.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils_agent.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Script\\multiagent\\ui_elements.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ui_elements.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Script\\multiagent\\rag_manager.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rag_manager.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Script\\multiagent\\utils\\terminal_1_0.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils\\terminal_1_0.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Script\\multiagent\\utils\\internet.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils\\internet.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Script\\multiagent\\utils\\file.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils\\file.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Script\\multiagent\\smart_splitter.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:smart_splitter.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Script\\multiagent\\utilbs.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utilbs.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "rag_manager.py",
+              "DocumentMoniker": "D:\\Script\\multiagent\\rag_manager.py",
+              "RelativeDocumentMoniker": "rag_manager.py",
+              "ToolTip": "D:\\Script\\multiagent\\rag_manager.py",
+              "RelativeToolTip": "rag_manager.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK/SURBVEhL1ZVNSxtRFIafyWQymvgxGq8fCcSNH1RJSxC6layEusjOleBWqD/Av9G6cKErf8EYCt34C9IupIiCuBBC4sKIDmomcSbXbibtdRKlhbroCwfmnHvO\u002Bw73Xt4Lr4nHx8dw6Z9DCxeAKPAGeAv0AXq4IYQWcAf8AE4AP9ygIgZ8AuqA/MuoB7OxMGkbRtDQ6jL8p\u002BEDnwOuDrwD3C5DEpCGYchsNiuFEDISiXSsK\u002BEGXABEFIEsYCo5AJFIBCEEa2tr5PN5BgcHmZ\u002BfJx6Po2ndjhAz4IKQQJ/yDYAQgqWlJdbX10mn05TLZWq1GgDZbJbJyUlMs\u002BOfULmiSlEVI5fLsbGxwdDQEL7vc39/j2maWJZFf38/AwMDGIZBs9nk4OCAUqmkjj/hauOjupcLCwtyd3dXXlxcSM/zZBitVkt6nicvLy/l8vJy\u002BBw\u002BtknVO/4e\u002BNBOkskk1WqVw8NDGo0GyWSSRCKBpmn4vk\u002B9XsdxHIrFIrZtc319rVDxFfjGSwJjY2P09vZyc3PD0dERpVKJeDxOKpXCcRxc1\u002BXq6oqdnR0qlQqO4yhUvwW67hXB7QF4eHig2WxSLpfZ29ujUqngeR66rlMsFjk\u002BPqbVaoXHf\u002BFZAU3T0HUdwzAQQjA1NUUmk/nlX9Vqlf39fVzXxfefd4dnBWKxGKOjo0xPT5NKpbAsi0QiAYDneZyfn1MoFMjlcuHRJ1AFnljr7e0tMzMzzM3NkU6nEUIghADg7u6O4eFhFhcXWVlZYWRkRB1F5VIPeQFYbie1Wo2zszNisRizs7NYloVpmoyPjyOlpNFoYNs229vbnJ6eKjQAfAG\u002Bh4urXXxF6rouJyYm5ObmprRtW56cnMitrS2ZyWRkNBrt6A9iNUxO4P8vml0\u002Bn5eFQkH29PR0rCvhBlwdeHW75jUenG5\u002B\u002B6pP5v\u002BHnxnsX6vUQ8HPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-21T09:19:31.44Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "usage.py",
+              "DocumentMoniker": "D:\\Script\\multiagent\\usage.py",
+              "RelativeDocumentMoniker": "usage.py",
+              "ToolTip": "D:\\Script\\multiagent\\usage.py",
+              "RelativeToolTip": "usage.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK/SURBVEhL1ZVNSxtRFIafyWQymvgxGq8fCcSNH1RJSxC6layEusjOleBWqD/Av9G6cKErf8EYCt34C9IupIiCuBBC4sKIDmomcSbXbibtdRKlhbroCwfmnHvO\u002Bw73Xt4Lr4nHx8dw6Z9DCxeAKPAGeAv0AXq4IYQWcAf8AE4AP9ygIgZ8AuqA/MuoB7OxMGkbRtDQ6jL8p\u002BEDnwOuDrwD3C5DEpCGYchsNiuFEDISiXSsK\u002BEGXABEFIEsYCo5AJFIBCEEa2tr5PN5BgcHmZ\u002BfJx6Po2ndjhAz4IKQQJ/yDYAQgqWlJdbX10mn05TLZWq1GgDZbJbJyUlMs\u002BOfULmiSlEVI5fLsbGxwdDQEL7vc39/j2maWJZFf38/AwMDGIZBs9nk4OCAUqmkjj/hauOjupcLCwtyd3dXXlxcSM/zZBitVkt6nicvLy/l8vJy\u002BBw\u002BtknVO/4e\u002BNBOkskk1WqVw8NDGo0GyWSSRCKBpmn4vk\u002B9XsdxHIrFIrZtc319rVDxFfjGSwJjY2P09vZyc3PD0dERpVKJeDxOKpXCcRxc1\u002BXq6oqdnR0qlQqO4yhUvwW67hXB7QF4eHig2WxSLpfZ29ujUqngeR66rlMsFjk\u002BPqbVaoXHf\u002BFZAU3T0HUdwzAQQjA1NUUmk/nlX9Vqlf39fVzXxfefd4dnBWKxGKOjo0xPT5NKpbAsi0QiAYDneZyfn1MoFMjlcuHRJ1AFnljr7e0tMzMzzM3NkU6nEUIghADg7u6O4eFhFhcXWVlZYWRkRB1F5VIPeQFYbie1Wo2zszNisRizs7NYloVpmoyPjyOlpNFoYNs229vbnJ6eKjQAfAG\u002Bh4urXXxF6rouJyYm5ObmprRtW56cnMitrS2ZyWRkNBrt6A9iNUxO4P8vml0\u002Bn5eFQkH29PR0rCvhBlwdeHW75jUenG5\u002B\u002B6pP5v\u002BHnxnsX6vUQ8HPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-01T06:40:53.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "terminal_1_0.py",
+              "DocumentMoniker": "D:\\Script\\multiagent\\utils\\terminal_1_0.py",
+              "RelativeDocumentMoniker": "utils\\terminal_1_0.py",
+              "ToolTip": "D:\\Script\\multiagent\\utils\\terminal_1_0.py",
+              "RelativeToolTip": "utils\\terminal_1_0.py",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK/SURBVEhL1ZVNSxtRFIafyWQymvgxGq8fCcSNH1RJSxC6layEusjOleBWqD/Av9G6cKErf8EYCt34C9IupIiCuBBC4sKIDmomcSbXbibtdRKlhbroCwfmnHvO\u002Bw73Xt4Lr4nHx8dw6Z9DCxeAKPAGeAv0AXq4IYQWcAf8AE4AP9ygIgZ8AuqA/MuoB7OxMGkbRtDQ6jL8p\u002BEDnwOuDrwD3C5DEpCGYchsNiuFEDISiXSsK\u002BEGXABEFIEsYCo5AJFIBCEEa2tr5PN5BgcHmZ\u002BfJx6Po2ndjhAz4IKQQJ/yDYAQgqWlJdbX10mn05TLZWq1GgDZbJbJyUlMs\u002BOfULmiSlEVI5fLsbGxwdDQEL7vc39/j2maWJZFf38/AwMDGIZBs9nk4OCAUqmkjj/hauOjupcLCwtyd3dXXlxcSM/zZBitVkt6nicvLy/l8vJy\u002BBw\u002BtknVO/4e\u002BNBOkskk1WqVw8NDGo0GyWSSRCKBpmn4vk\u002B9XsdxHIrFIrZtc319rVDxFfjGSwJjY2P09vZyc3PD0dERpVKJeDxOKpXCcRxc1\u002BXq6oqdnR0qlQqO4yhUvwW67hXB7QF4eHig2WxSLpfZ29ujUqngeR66rlMsFjk\u002BPqbVaoXHf\u002BFZAU3T0HUdwzAQQjA1NUUmk/nlX9Vqlf39fVzXxfefd4dnBWKxGKOjo0xPT5NKpbAsi0QiAYDneZyfn1MoFMjlcuHRJ1AFnljr7e0tMzMzzM3NkU6nEUIghADg7u6O4eFhFhcXWVlZYWRkRB1F5VIPeQFYbie1Wo2zszNisRizs7NYloVpmoyPjyOlpNFoYNs229vbnJ6eKjQAfAG\u002Bh4urXXxF6rouJyYm5ObmprRtW56cnMitrS2ZyWRkNBrt6A9iNUxO4P8vml0\u002Bn5eFQkH29PR0rCvhBlwdeHW75jUenG5\u002B\u002B6pP5v\u002BHnxnsX6vUQ8HPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-31T06:59:55.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.py",
+              "DocumentMoniker": "D:\\Script\\multiagent\\app.py",
+              "RelativeDocumentMoniker": "app.py",
+              "ToolTip": "D:\\Script\\multiagent\\app.py",
+              "RelativeToolTip": "app.py",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAiwLIAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK/SURBVEhL1ZVNSxtRFIafyWQymvgxGq8fCcSNH1RJSxC6layEusjOleBWqD/Av9G6cKErf8EYCt34C9IupIiCuBBC4sKIDmomcSbXbibtdRKlhbroCwfmnHvO\u002Bw73Xt4Lr4nHx8dw6Z9DCxeAKPAGeAv0AXq4IYQWcAf8AE4AP9ygIgZ8AuqA/MuoB7OxMGkbRtDQ6jL8p\u002BEDnwOuDrwD3C5DEpCGYchsNiuFEDISiXSsK\u002BEGXABEFIEsYCo5AJFIBCEEa2tr5PN5BgcHmZ\u002BfJx6Po2ndjhAz4IKQQJ/yDYAQgqWlJdbX10mn05TLZWq1GgDZbJbJyUlMs\u002BOfULmiSlEVI5fLsbGxwdDQEL7vc39/j2maWJZFf38/AwMDGIZBs9nk4OCAUqmkjj/hauOjupcLCwtyd3dXXlxcSM/zZBitVkt6nicvLy/l8vJy\u002BBw\u002BtknVO/4e\u002BNBOkskk1WqVw8NDGo0GyWSSRCKBpmn4vk\u002B9XsdxHIrFIrZtc319rVDxFfjGSwJjY2P09vZyc3PD0dERpVKJeDxOKpXCcRxc1\u002BXq6oqdnR0qlQqO4yhUvwW67hXB7QF4eHig2WxSLpfZ29ujUqngeR66rlMsFjk\u002BPqbVaoXHf\u002BFZAU3T0HUdwzAQQjA1NUUmk/nlX9Vqlf39fVzXxfefd4dnBWKxGKOjo0xPT5NKpbAsi0QiAYDneZyfn1MoFMjlcuHRJ1AFnljr7e0tMzMzzM3NkU6nEUIghADg7u6O4eFhFhcXWVlZYWRkRB1F5VIPeQFYbie1Wo2zszNisRizs7NYloVpmoyPjyOlpNFoYNs229vbnJ6eKjQAfAG\u002Bh4urXXxF6rouJyYm5ObmprRtW56cnMitrS2ZyWRkNBrt6A9iNUxO4P8vml0\u002Bn5eFQkH29PR0rCvhBlwdeHW75jUenG5\u002B\u002B6pP5v\u002BHnxnsX6vUQ8HPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-21T09:25:51.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ui_elements.py",
+              "DocumentMoniker": "D:\\Script\\multiagent\\ui_elements.py",
+              "RelativeDocumentMoniker": "ui_elements.py",
+              "ToolTip": "D:\\Script\\multiagent\\ui_elements.py",
+              "RelativeToolTip": "ui_elements.py",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwDgAAAAZAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK/SURBVEhL1ZVNSxtRFIafyWQymvgxGq8fCcSNH1RJSxC6layEusjOleBWqD/Av9G6cKErf8EYCt34C9IupIiCuBBC4sKIDmomcSbXbibtdRKlhbroCwfmnHvO\u002Bw73Xt4Lr4nHx8dw6Z9DCxeAKPAGeAv0AXq4IYQWcAf8AE4AP9ygIgZ8AuqA/MuoB7OxMGkbRtDQ6jL8p\u002BEDnwOuDrwD3C5DEpCGYchsNiuFEDISiXSsK\u002BEGXABEFIEsYCo5AJFIBCEEa2tr5PN5BgcHmZ\u002BfJx6Po2ndjhAz4IKQQJ/yDYAQgqWlJdbX10mn05TLZWq1GgDZbJbJyUlMs\u002BOfULmiSlEVI5fLsbGxwdDQEL7vc39/j2maWJZFf38/AwMDGIZBs9nk4OCAUqmkjj/hauOjupcLCwtyd3dXXlxcSM/zZBitVkt6nicvLy/l8vJy\u002BBw\u002BtknVO/4e\u002BNBOkskk1WqVw8NDGo0GyWSSRCKBpmn4vk\u002B9XsdxHIrFIrZtc319rVDxFfjGSwJjY2P09vZyc3PD0dERpVKJeDxOKpXCcRxc1\u002BXq6oqdnR0qlQqO4yhUvwW67hXB7QF4eHig2WxSLpfZ29ujUqngeR66rlMsFjk\u002BPqbVaoXHf\u002BFZAU3T0HUdwzAQQjA1NUUmk/nlX9Vqlf39fVzXxfefd4dnBWKxGKOjo0xPT5NKpbAsi0QiAYDneZyfn1MoFMjlcuHRJ1AFnljr7e0tMzMzzM3NkU6nEUIghADg7u6O4eFhFhcXWVlZYWRkRB1F5VIPeQFYbie1Wo2zszNisRizs7NYloVpmoyPjyOlpNFoYNs229vbnJ6eKjQAfAG\u002Bh4urXXxF6rouJyYm5ObmprRtW56cnMitrS2ZyWRkNBrt6A9iNUxO4P8vml0\u002Bn5eFQkH29PR0rCvhBlwdeHW75jUenG5\u002B\u002B6pP5v\u002BHnxnsX6vUQ8HPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-27T12:21:02.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "utils_agent.py",
+              "DocumentMoniker": "D:\\Script\\multiagent\\utils_agent.py",
+              "RelativeDocumentMoniker": "utils_agent.py",
+              "ToolTip": "D:\\Script\\multiagent\\utils_agent.py",
+              "RelativeToolTip": "utils_agent.py",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAowEsAAAAkAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK/SURBVEhL1ZVNSxtRFIafyWQymvgxGq8fCcSNH1RJSxC6layEusjOleBWqD/Av9G6cKErf8EYCt34C9IupIiCuBBC4sKIDmomcSbXbibtdRKlhbroCwfmnHvO\u002Bw73Xt4Lr4nHx8dw6Z9DCxeAKPAGeAv0AXq4IYQWcAf8AE4AP9ygIgZ8AuqA/MuoB7OxMGkbRtDQ6jL8p\u002BEDnwOuDrwD3C5DEpCGYchsNiuFEDISiXSsK\u002BEGXABEFIEsYCo5AJFIBCEEa2tr5PN5BgcHmZ\u002BfJx6Po2ndjhAz4IKQQJ/yDYAQgqWlJdbX10mn05TLZWq1GgDZbJbJyUlMs\u002BOfULmiSlEVI5fLsbGxwdDQEL7vc39/j2maWJZFf38/AwMDGIZBs9nk4OCAUqmkjj/hauOjupcLCwtyd3dXXlxcSM/zZBitVkt6nicvLy/l8vJy\u002BBw\u002BtknVO/4e\u002BNBOkskk1WqVw8NDGo0GyWSSRCKBpmn4vk\u002B9XsdxHIrFIrZtc319rVDxFfjGSwJjY2P09vZyc3PD0dERpVKJeDxOKpXCcRxc1\u002BXq6oqdnR0qlQqO4yhUvwW67hXB7QF4eHig2WxSLpfZ29ujUqngeR66rlMsFjk\u002BPqbVaoXHf\u002BFZAU3T0HUdwzAQQjA1NUUmk/nlX9Vqlf39fVzXxfefd4dnBWKxGKOjo0xPT5NKpbAsi0QiAYDneZyfn1MoFMjlcuHRJ1AFnljr7e0tMzMzzM3NkU6nEUIghADg7u6O4eFhFhcXWVlZYWRkRB1F5VIPeQFYbie1Wo2zszNisRizs7NYloVpmoyPjyOlpNFoYNs229vbnJ6eKjQAfAG\u002Bh4urXXxF6rouJyYm5ObmprRtW56cnMitrS2ZyWRkNBrt6A9iNUxO4P8vml0\u002Bn5eFQkH29PR0rCvhBlwdeHW75jUenG5\u002B\u002B6pP5v\u002BHnxnsX6vUQ8HPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-27T12:20:03.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "smart_splitter.py",
+              "DocumentMoniker": "D:\\Script\\multiagent\\smart_splitter.py",
+              "RelativeDocumentMoniker": "smart_splitter.py",
+              "ToolTip": "D:\\Script\\multiagent\\smart_splitter.py",
+              "RelativeToolTip": "smart_splitter.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK/SURBVEhL1ZVNSxtRFIafyWQymvgxGq8fCcSNH1RJSxC6layEusjOleBWqD/Av9G6cKErf8EYCt34C9IupIiCuBBC4sKIDmomcSbXbibtdRKlhbroCwfmnHvO\u002Bw73Xt4Lr4nHx8dw6Z9DCxeAKPAGeAv0AXq4IYQWcAf8AE4AP9ygIgZ8AuqA/MuoB7OxMGkbRtDQ6jL8p\u002BEDnwOuDrwD3C5DEpCGYchsNiuFEDISiXSsK\u002BEGXABEFIEsYCo5AJFIBCEEa2tr5PN5BgcHmZ\u002BfJx6Po2ndjhAz4IKQQJ/yDYAQgqWlJdbX10mn05TLZWq1GgDZbJbJyUlMs\u002BOfULmiSlEVI5fLsbGxwdDQEL7vc39/j2maWJZFf38/AwMDGIZBs9nk4OCAUqmkjj/hauOjupcLCwtyd3dXXlxcSM/zZBitVkt6nicvLy/l8vJy\u002BBw\u002BtknVO/4e\u002BNBOkskk1WqVw8NDGo0GyWSSRCKBpmn4vk\u002B9XsdxHIrFIrZtc319rVDxFfjGSwJjY2P09vZyc3PD0dERpVKJeDxOKpXCcRxc1\u002BXq6oqdnR0qlQqO4yhUvwW67hXB7QF4eHig2WxSLpfZ29ujUqngeR66rlMsFjk\u002BPqbVaoXHf\u002BFZAU3T0HUdwzAQQjA1NUUmk/nlX9Vqlf39fVzXxfefd4dnBWKxGKOjo0xPT5NKpbAsi0QiAYDneZyfn1MoFMjlcuHRJ1AFnljr7e0tMzMzzM3NkU6nEUIghADg7u6O4eFhFhcXWVlZYWRkRB1F5VIPeQFYbie1Wo2zszNisRizs7NYloVpmoyPjyOlpNFoYNs229vbnJ6eKjQAfAG\u002Bh4urXXxF6rouJyYm5ObmprRtW56cnMitrS2ZyWRkNBrt6A9iNUxO4P8vml0\u002Bn5eFQkH29PR0rCvhBlwdeHW75jUenG5\u002B\u002B6pP5v\u002BHnxnsX6vUQ8HPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-27T12:09:07.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "utilbs.py",
+              "DocumentMoniker": "D:\\Script\\multiagent\\utilbs.py",
+              "RelativeDocumentMoniker": "utilbs.py",
+              "ToolTip": "D:\\Script\\multiagent\\utilbs.py",
+              "RelativeToolTip": "utilbs.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK/SURBVEhL1ZVNSxtRFIafyWQymvgxGq8fCcSNH1RJSxC6layEusjOleBWqD/Av9G6cKErf8EYCt34C9IupIiCuBBC4sKIDmomcSbXbibtdRKlhbroCwfmnHvO\u002Bw73Xt4Lr4nHx8dw6Z9DCxeAKPAGeAv0AXq4IYQWcAf8AE4AP9ygIgZ8AuqA/MuoB7OxMGkbRtDQ6jL8p\u002BEDnwOuDrwD3C5DEpCGYchsNiuFEDISiXSsK\u002BEGXABEFIEsYCo5AJFIBCEEa2tr5PN5BgcHmZ\u002BfJx6Po2ndjhAz4IKQQJ/yDYAQgqWlJdbX10mn05TLZWq1GgDZbJbJyUlMs\u002BOfULmiSlEVI5fLsbGxwdDQEL7vc39/j2maWJZFf38/AwMDGIZBs9nk4OCAUqmkjj/hauOjupcLCwtyd3dXXlxcSM/zZBitVkt6nicvLy/l8vJy\u002BBw\u002BtknVO/4e\u002BNBOkskk1WqVw8NDGo0GyWSSRCKBpmn4vk\u002B9XsdxHIrFIrZtc319rVDxFfjGSwJjY2P09vZyc3PD0dERpVKJeDxOKpXCcRxc1\u002BXq6oqdnR0qlQqO4yhUvwW67hXB7QF4eHig2WxSLpfZ29ujUqngeR66rlMsFjk\u002BPqbVaoXHf\u002BFZAU3T0HUdwzAQQjA1NUUmk/nlX9Vqlf39fVzXxfefd4dnBWKxGKOjo0xPT5NKpbAsi0QiAYDneZyfn1MoFMjlcuHRJ1AFnljr7e0tMzMzzM3NkU6nEUIghADg7u6O4eFhFhcXWVlZYWRkRB1F5VIPeQFYbie1Wo2zszNisRizs7NYloVpmoyPjyOlpNFoYNs229vbnJ6eKjQAfAG\u002Bh4urXXxF6rouJyYm5ObmprRtW56cnMitrS2ZyWRkNBrt6A9iNUxO4P8vml0\u002Bn5eFQkH29PR0rCvhBlwdeHW75jUenG5\u002B\u002B6pP5v\u002BHnxnsX6vUQ8HPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-23T12:38:34.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "base_agent.py",
+              "DocumentMoniker": "D:\\Script\\multiagent\\base_agent.py",
+              "RelativeDocumentMoniker": "base_agent.py",
+              "ToolTip": "D:\\Script\\multiagent\\base_agent.py",
+              "RelativeToolTip": "base_agent.py",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAowFAAAAAzAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK/SURBVEhL1ZVNSxtRFIafyWQymvgxGq8fCcSNH1RJSxC6layEusjOleBWqD/Av9G6cKErf8EYCt34C9IupIiCuBBC4sKIDmomcSbXbibtdRKlhbroCwfmnHvO\u002Bw73Xt4Lr4nHx8dw6Z9DCxeAKPAGeAv0AXq4IYQWcAf8AE4AP9ygIgZ8AuqA/MuoB7OxMGkbRtDQ6jL8p\u002BEDnwOuDrwD3C5DEpCGYchsNiuFEDISiXSsK\u002BEGXABEFIEsYCo5AJFIBCEEa2tr5PN5BgcHmZ\u002BfJx6Po2ndjhAz4IKQQJ/yDYAQgqWlJdbX10mn05TLZWq1GgDZbJbJyUlMs\u002BOfULmiSlEVI5fLsbGxwdDQEL7vc39/j2maWJZFf38/AwMDGIZBs9nk4OCAUqmkjj/hauOjupcLCwtyd3dXXlxcSM/zZBitVkt6nicvLy/l8vJy\u002BBw\u002BtknVO/4e\u002BNBOkskk1WqVw8NDGo0GyWSSRCKBpmn4vk\u002B9XsdxHIrFIrZtc319rVDxFfjGSwJjY2P09vZyc3PD0dERpVKJeDxOKpXCcRxc1\u002BXq6oqdnR0qlQqO4yhUvwW67hXB7QF4eHig2WxSLpfZ29ujUqngeR66rlMsFjk\u002BPqbVaoXHf\u002BFZAU3T0HUdwzAQQjA1NUUmk/nlX9Vqlf39fVzXxfefd4dnBWKxGKOjo0xPT5NKpbAsi0QiAYDneZyfn1MoFMjlcuHRJ1AFnljr7e0tMzMzzM3NkU6nEUIghADg7u6O4eFhFhcXWVlZYWRkRB1F5VIPeQFYbie1Wo2zszNisRizs7NYloVpmoyPjyOlpNFoYNs229vbnJ6eKjQAfAG\u002Bh4urXXxF6rouJyYm5ObmprRtW56cnMitrS2ZyWRkNBrt6A9iNUxO4P8vml0\u002Bn5eFQkH29PR0rCvhBlwdeHW75jUenG5\u002B\u002B6pP5v\u002BHnxnsX6vUQ8HPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-21T09:18:01.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "9fd02941-3b30-435c-96a5-02c8ecc6c369",
+        "Display": 0,
+        "X": 145,
+        "Y": 167,
+        "Width": 2420,
+        "Height": 1092,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "file.py",
+              "DocumentMoniker": "D:\\Script\\multiagent\\utils\\file.py",
+              "RelativeDocumentMoniker": "utils\\file.py",
+              "ToolTip": "D:\\Script\\multiagent\\utils\\file.py",
+              "RelativeToolTip": "utils\\file.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK/SURBVEhL1ZVNSxtRFIafyWQymvgxGq8fCcSNH1RJSxC6layEusjOleBWqD/Av9G6cKErf8EYCt34C9IupIiCuBBC4sKIDmomcSbXbibtdRKlhbroCwfmnHvO\u002Bw73Xt4Lr4nHx8dw6Z9DCxeAKPAGeAv0AXq4IYQWcAf8AE4AP9ygIgZ8AuqA/MuoB7OxMGkbRtDQ6jL8p\u002BEDnwOuDrwD3C5DEpCGYchsNiuFEDISiXSsK\u002BEGXABEFIEsYCo5AJFIBCEEa2tr5PN5BgcHmZ\u002BfJx6Po2ndjhAz4IKQQJ/yDYAQgqWlJdbX10mn05TLZWq1GgDZbJbJyUlMs\u002BOfULmiSlEVI5fLsbGxwdDQEL7vc39/j2maWJZFf38/AwMDGIZBs9nk4OCAUqmkjj/hauOjupcLCwtyd3dXXlxcSM/zZBitVkt6nicvLy/l8vJy\u002BBw\u002BtknVO/4e\u002BNBOkskk1WqVw8NDGo0GyWSSRCKBpmn4vk\u002B9XsdxHIrFIrZtc319rVDxFfjGSwJjY2P09vZyc3PD0dERpVKJeDxOKpXCcRxc1\u002BXq6oqdnR0qlQqO4yhUvwW67hXB7QF4eHig2WxSLpfZ29ujUqngeR66rlMsFjk\u002BPqbVaoXHf\u002BFZAU3T0HUdwzAQQjA1NUUmk/nlX9Vqlf39fVzXxfefd4dnBWKxGKOjo0xPT5NKpbAsi0QiAYDneZyfn1MoFMjlcuHRJ1AFnljr7e0tMzMzzM3NkU6nEUIghADg7u6O4eFhFhcXWVlZYWRkRB1F5VIPeQFYbie1Wo2zszNisRizs7NYloVpmoyPjyOlpNFoYNs229vbnJ6eKjQAfAG\u002Bh4urXXxF6rouJyYm5ObmprRtW56cnMitrS2ZyWRkNBrt6A9iNUxO4P8vml0\u002Bn5eFQkH29PR0rCvhBlwdeHW75jUenG5\u002B\u002B6pP5v\u002BHnxnsX6vUQ8HPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-29T15:02:58.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "terminal.py",
+              "DocumentMoniker": "D:\\Script\\multiagent\\utils\\terminal.py",
+              "RelativeDocumentMoniker": "utils\\terminal.py",
+              "ToolTip": "D:\\Script\\multiagent\\utils\\terminal.py",
+              "RelativeToolTip": "utils\\terminal.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAjAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK/SURBVEhL1ZVNSxtRFIafyWQymvgxGq8fCcSNH1RJSxC6layEusjOleBWqD/Av9G6cKErf8EYCt34C9IupIiCuBBC4sKIDmomcSbXbibtdRKlhbroCwfmnHvO\u002Bw73Xt4Lr4nHx8dw6Z9DCxeAKPAGeAv0AXq4IYQWcAf8AE4AP9ygIgZ8AuqA/MuoB7OxMGkbRtDQ6jL8p\u002BEDnwOuDrwD3C5DEpCGYchsNiuFEDISiXSsK\u002BEGXABEFIEsYCo5AJFIBCEEa2tr5PN5BgcHmZ\u002BfJx6Po2ndjhAz4IKQQJ/yDYAQgqWlJdbX10mn05TLZWq1GgDZbJbJyUlMs\u002BOfULmiSlEVI5fLsbGxwdDQEL7vc39/j2maWJZFf38/AwMDGIZBs9nk4OCAUqmkjj/hauOjupcLCwtyd3dXXlxcSM/zZBitVkt6nicvLy/l8vJy\u002BBw\u002BtknVO/4e\u002BNBOkskk1WqVw8NDGo0GyWSSRCKBpmn4vk\u002B9XsdxHIrFIrZtc319rVDxFfjGSwJjY2P09vZyc3PD0dERpVKJeDxOKpXCcRxc1\u002BXq6oqdnR0qlQqO4yhUvwW67hXB7QF4eHig2WxSLpfZ29ujUqngeR66rlMsFjk\u002BPqbVaoXHf\u002BFZAU3T0HUdwzAQQjA1NUUmk/nlX9Vqlf39fVzXxfefd4dnBWKxGKOjo0xPT5NKpbAsi0QiAYDneZyfn1MoFMjlcuHRJ1AFnljr7e0tMzMzzM3NkU6nEUIghADg7u6O4eFhFhcXWVlZYWRkRB1F5VIPeQFYbie1Wo2zszNisRizs7NYloVpmoyPjyOlpNFoYNs229vbnJ6eKjQAfAG\u002Bh4urXXxF6rouJyYm5ObmprRtW56cnMitrS2ZyWRkNBrt6A9iNUxO4P8vml0\u002Bn5eFQkH29PR0rCvhBlwdeHW75jUenG5\u002B\u002B6pP5v\u002BHnxnsX6vUQ8HPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-29T15:06:50.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "internet.py",
+              "DocumentMoniker": "D:\\Script\\multiagent\\utils\\internet.py",
+              "RelativeDocumentMoniker": "utils\\internet.py",
+              "ToolTip": "D:\\Script\\multiagent\\utils\\internet.py",
+              "RelativeToolTip": "utils\\internet.py",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK/SURBVEhL1ZVNSxtRFIafyWQymvgxGq8fCcSNH1RJSxC6layEusjOleBWqD/Av9G6cKErf8EYCt34C9IupIiCuBBC4sKIDmomcSbXbibtdRKlhbroCwfmnHvO\u002Bw73Xt4Lr4nHx8dw6Z9DCxeAKPAGeAv0AXq4IYQWcAf8AE4AP9ygIgZ8AuqA/MuoB7OxMGkbRtDQ6jL8p\u002BEDnwOuDrwD3C5DEpCGYchsNiuFEDISiXSsK\u002BEGXABEFIEsYCo5AJFIBCEEa2tr5PN5BgcHmZ\u002BfJx6Po2ndjhAz4IKQQJ/yDYAQgqWlJdbX10mn05TLZWq1GgDZbJbJyUlMs\u002BOfULmiSlEVI5fLsbGxwdDQEL7vc39/j2maWJZFf38/AwMDGIZBs9nk4OCAUqmkjj/hauOjupcLCwtyd3dXXlxcSM/zZBitVkt6nicvLy/l8vJy\u002BBw\u002BtknVO/4e\u002BNBOkskk1WqVw8NDGo0GyWSSRCKBpmn4vk\u002B9XsdxHIrFIrZtc319rVDxFfjGSwJjY2P09vZyc3PD0dERpVKJeDxOKpXCcRxc1\u002BXq6oqdnR0qlQqO4yhUvwW67hXB7QF4eHig2WxSLpfZ29ujUqngeR66rlMsFjk\u002BPqbVaoXHf\u002BFZAU3T0HUdwzAQQjA1NUUmk/nlX9Vqlf39fVzXxfefd4dnBWKxGKOjo0xPT5NKpbAsi0QiAYDneZyfn1MoFMjlcuHRJ1AFnljr7e0tMzMzzM3NkU6nEUIghADg7u6O4eFhFhcXWVlZYWRkRB1F5VIPeQFYbie1Wo2zszNisRizs7NYloVpmoyPjyOlpNFoYNs229vbnJ6eKjQAfAG\u002Bh4urXXxF6rouJyYm5ObmprRtW56cnMitrS2ZyWRkNBrt6A9iNUxO4P8vml0\u002Bn5eFQkH29PR0rCvhBlwdeHW75jUenG5\u002B\u002B6pP5v\u002BHnxnsX6vUQ8HPAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-03-22T12:41:38.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
