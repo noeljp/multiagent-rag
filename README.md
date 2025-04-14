@@ -1,4 +1,4 @@
-```markdown
+
   🤖 Multi-Agent IA avec Streamlit + RAG
 
 
@@ -35,7 +35,7 @@ construite avec [Streamlit](https://streamlit.io).
 ```bash
 git clone https://github.com/noeljp/multiagent-rag.git
 cd multiagent-rag
-```
+
 
 ### 2. Installe les dépendances
 
