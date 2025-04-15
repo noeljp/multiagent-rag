@@ -1,36 +1,32 @@
-# Core FastAPI server
-fastapi
-uvicorn
+# Requirements for Multi-Agent Streamlit Collaboration App
 
-# Data validation & type hints
-pydantic
+# Interface
+streamlit>=1.28.0
+pandas>=1.5.3
+plotly>=5.10.0
 
-# OpenAI API client
-openai
+# IA & NLP
+openai>=1.3.0
+tiktoken>=0.5.1
+langchain>=0.1.0
+langchain-openai>=0.0.6
+langchain-chroma>=0.0.6
 
-# Token counting (OpenAI)
-tiktoken
+# Embeddings & vector search
+chromadb>=0.4.24
 
-# LangChain & vector store
-langchain
-langchain-openai
-langchain-chroma
+# Utilitaires
+duckduckgo-search>=3.8.3
+requests>=2.31.0
 
-# Text parsing / NLP
-beautifulsoup4
+# Exécution système
+subprocess-tee>=0.4.1
 
-# Frontend React dependencies (à mettre séparément dans le frontend, si projet séparé)
-# Ces packages sont pour le frontend React, à inclure dans un package.json
-# react
-# react-dom
-# @shadcn/ui
-# @radix-ui/react-scroll-area
-# tailwindcss
+# Formatage et extraction
+python-dotenv>=1.0.0
 
-# Si tu utilises bs4 ou SmartTextSplitter avec HTML, JSON, code parsing
-lxml
+# Pour compatibilité chemin (optionnel)
+pathlib
 
-# Parsing Python AST (déjà intégré dans Python stdlib)
-# ast et json sont natifs, donc pas à inclure
-
-# Pour regex (re) : intégré à Python
+# Si tu prévois l'inférence ONNX (à activer si nécessaire)
+# onnxruntime>=1.16.3
