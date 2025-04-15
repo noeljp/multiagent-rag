@@ -1,4 +1,4 @@
-```markdown
+
 # 🤖 Multi-Agent Collaboration Platform (Streamlit)
 
 Ce projet est une plateforme de collaboration multi-agent pilotée par Streamlit, combinant intelligence artificielle, génération de code, orchestration d’agents spécialisés, et mémoire vectorielle pour une productivité augmentée.
@@ -112,6 +112,4 @@ dans sa réponse. Cela arrête immédiatement le processus collaboratif.
 ## 🧑‍💻 Auteur
 
 Développé par [Ton Nom], dans le cadre d'une expérimentation sur l'intelligence collective automatisée.
-```
 
-Souhaites-tu que je te le dépose dans un fichier `README.md` prêt à l’emploi ?
